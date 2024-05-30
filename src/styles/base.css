@@ -14,8 +14,8 @@
   }
 
   html[data-theme="dark"] {
-    --color-fill: 0, 1, 35;
-    --color-accent: 255, 107, 1;
+    --color-fill: 0, 8, 20;
+    --color-accent: 255, 238, 153;
     --color-text-base: 234, 237, 243;
     --color-card: 33, 34, 83;
     --color-card-muted: 12, 14, 79;
