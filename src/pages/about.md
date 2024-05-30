@@ -3,34 +3,21 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Hi! My name is Gopi Krishna Menon. I am a PhD scholar at Indraprastha Institute of Information Technology Delhi (IIIT-Delhi).
+I am interested in design and development of Compilers, Operating Systems, Programming Languages.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+I daily drive C++ and C at work but am familiar with Rust, Python as well. TBH, nowadays I am not polarised
+towards any specific language in general and am comfortable with whatever gets the job done.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+I also love working on my homelab and you can often see me ranting about Homelab stuff in this blog.
+
+Apart from that I use linux and love to tinker with the kernel. My favourite distro is Gentoo followed by Arch.
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## Tech Stack
+## GNexus Labs
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+[GNexusLabs](https://www.gnexus-labs.com) is where I host my research work along with some side projects.
+I plan to make GNexus Labs something like MSR in the future and am working towards that Goal.
