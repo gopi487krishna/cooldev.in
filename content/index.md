@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to cooldev.in
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is a blank cooldev.in installation.
+See the [documentation](https://cooldev.in) for how to get started.
