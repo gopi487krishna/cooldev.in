@@ -1,5 +1,5 @@
 {
-  description = "Quartz devshell";
+  description = "cooldev.in devshell";
 
   inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
 
@@ -10,7 +10,7 @@
   in
   {
     devShells.${system}.default = pkgs.mkShell {
-      name = "quartz-dev";
+      name = "cooldev.in-dev";
       packages = with pkgs; [
         nodejs_23
       ];
