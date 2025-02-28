@@ -12,10 +12,7 @@
     devShells.${system}.default = pkgs.mkShell {
       name = "quartz-dev";
       packages = with pkgs; [
-        nodejs-18_x
-        npm
-        nodePackages.npm
-        nodePackages.npx
+        nodejs_23
       ];
     };
   };
